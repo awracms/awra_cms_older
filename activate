@@ -1,0 +1,16 @@
+#! /bin/sh
+
+if [ $# -eq 0 ]
+then
+  if [ -d $HOME/.venv/virtualenv ]; then
+    PYENV_HOME=$HOME/.venv
+  else
+    PYENV_HOME=`echo $PWD/.pyenv`
+  fi
+else
+   PYENV_HOME=$1
+fi
+
+source $PYENV_HOME/virtualenv/bin/activate
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$PYENV_HOME/lib
+export PATH=$HOME/.venv/bin:$PATH

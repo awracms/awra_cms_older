@@ -1,0 +1,2 @@
+include awrams/models/awral/model/*
+include awrams/models/awral/data/*
