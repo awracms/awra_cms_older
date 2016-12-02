@@ -16,7 +16,7 @@ The operational AWRAMS has been used towards supplying retrospective water balan
  - [Regional water information](http://www.bom.gov.au/water/rwi) water resource assessments
  - [National Water Account](http://www.bom.gov.au/water/nwa): that provides an annual set of water accounting reports for ten nationally significant water resource management regions. Adelaide, Burdekin, Canberra, Daly, Melbourne, Murray–Darling Basin, Ord, Perth, South East Queensland and Sydney. 
 
-Operational outputs from the AWRA-L (the landscape component of AWRA) daily 0.05 degree gridded soil moisture, runoff, evapotranspiration, and deep drainage outputs  available from yesterday back to 1911 online through the Australian Landscape Water Balance website [www.bom.gov.au/water/landscape](http://www.bom.gov.au/water/landscape).
+The Bureau's operational implementation of AWRA-L (the landscape component of AWRA) outputs daily 0.05 degree gridded soil moisture, runoff, evapotranspiration, and deep drainage values. These are available from yesterday back to 1911 through the Australian Landscape Water Balance website [www.bom.gov.au/water/landscape](http://www.bom.gov.au/water/landscape).
 
 ![AWRA-L conceptual diagram](http://www.bom.gov.au/water/landscape/images/allFluxes.73826d3d.png "allFluxes.73826d3d.png")
 
@@ -57,7 +57,7 @@ It is expected that the majority of early adopters of the AWRA Community Modelli
 Importantly, the community modelling system is not intended to address the needs of users and organisations that simply need to consume the model outputs from the operational system (**Data user** and **Case study users** listed above). For these situations, and in general, the existing Bureau’s web site and registered data services will continue to be the point of truth for AWRA-L operational model outputs (email: [awrams@bom.gov.au](mailto:%20awrams@bom.gov.au)). 
 
 ## Licensing ##
-By accessing or using the AWRAMS software, code, data or documentation, you agree to be bound by the AWRAMS licence (see [LICENCE.txt](https://github.com/awracms/awra_cms/blob/github/LICENSE.txt)). 
+By accessing or using the AWRAMS software, code, data or documentation, you agree to be bound by the AWRAMS licence (see [LICENCE.txt](https://github.com/awracms/awra_cms/blob/master/LICENSE.txt)).
 
 **Registered Users** are required to sign and return to the Bureau the AWRAMS licence. 
 
@@ -65,19 +65,19 @@ User Registration
 -----------------
 There are two types of **Users** with the AWRA CMS: Users and **Registered Users**. 
 
-Any **User** can access the AWRA CMS package, the User Manual and limited data via [GitHub](https://github.com/awracms/awra_cms) (this site), and are bound by the AWRAMS licence.  However, to gain access to the evaluation datasets and a user must become an **AWRA CMS Registered User**. Reasons to become an AWRA CMS Registered User include:
+Any **User** can access the AWRA CMS package, the User Manual and limited data via [GitHub](https://github.com/awracms/awra_cms) (this site), and are bound by the AWRAMS licence.  However, to gain access to the evaluation datasets a user must become an **AWRA CMS Registered User**. Reasons to become an AWRA CMS Registered User include:
 
  - **Access to Data:** complete calibration and benchmarking datasets (catchment-average time-series of streamflow, soil moisture and evapotranspiration, point estimates of soil moisture and evapotranspiration) and solar radiation "climatology" gridded dataset for input prior to 1990.
  - **Documentation**: 
 	 - User manual
 	 - Technical Model Description Report
 	 - Benchmarking Report
- - **Ability to contribute to AWRA:** allowing the user to create a [fork](https://help.github.com/articles/fork-a-repo/) of github repository further allowing the opportunity to contribute to the ongoing development of the AWRA CMS code. Users who wish to submit enhancements to the modelling system to the Bureau are also required to agree to the AWRAMS Contributor License Agreement ([CONTRIBUTOR_LICENCE_AGREEMENT.txt]( https://github.com/awracms/awra_cms/blob/github/CONTRIBUTOR_LICENCE_AGREEMENT.txt)).
+ - **Ability to contribute to AWRA:** allowing the user to create a [fork](https://help.github.com/articles/fork-a-repo/) of github repository further allowing the opportunity to contribute to the ongoing development of the AWRA CMS code. Users who wish to submit enhancements of the modelling system to the Bureau are also required to agree to the AWRAMS Contributor License Agreement ([CONTRIBUTOR_LICENCE_AGREEMENT.txt]( https://github.com/awracms/awra_cms/blob/master/CONTRIBUTOR_LICENCE_AGREEMENT.txt)).
  - **Ongoing support**
 
 To become a Registered User send an email to [awracms@bom.gov.au](mailto:%20awracms@bom.gov.au) and the Bureau will send you the licence agreement and instructions on how to access the datasets. 
 
-**Climate Data**: Limited input climate data is supplied with the AWRA CMS. The full archive of daily gridded climate input data produced by the Bureau of Meteorology ([AWAP](http://www.bom.gov.au/jsp/awap/)) from 1911 until yesterday can be accessed through the [AusCover]( http://www.auscover.org.au/dataset_categories/other-environmental-data/) website (see the link to Australian Gridded Climate Data on that page). The AWRA CMS User Guide outlines how to input the AusCover data into AWRA CMS.
+**Climate Data**: Limited input climate data is supplied with the AWRA CMS.
 
 ## Contributing to AWRA CMS##
 
@@ -92,8 +92,8 @@ To make changes to the AWRA-L community model source code the User needs to crea
 After ensuring the robustness of the changes locally, developers are able to contribute to the community modelling system by proposing their alterations to the Bureau according to the following steps:
 
  1. The User proposes changes to the Bureau
- 2. The Bureau assesses scientifically the proposed change. If successful the Bureau grants access for submission of fork/code.
- 3. User submits their fork (new code) and any documentation and  testing that been conducted
+ 2. The Bureau assesses scientifically the proposed change. If successful the Bureau grants access for submission of fork/code
+ 3. User submits their fork (new code) and any documentation and  testing that has been conducted
  4. The Bureau assesses that code against various performance criteria including performance against benchmark data, system performance, code complexity and maintainability. If successful according to that testing the Bureau releases the new version of the CMS.
 
 
