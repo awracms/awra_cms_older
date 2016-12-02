@@ -1,0 +1,787 @@
+State	StationID	Data_Owner
+ACT	410705	Icon Water Limited
+ACT	410713	Icon Water Limited
+ACT	410730	Icon Water Limited
+ACT	410731	Icon Water Limited
+ACT	410734	Icon Water Limited
+NSW	201001	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	201005	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	203005	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	203010	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	203030	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	203041	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204002	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204007	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204014	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204015	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204017	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204025	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204026	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204030	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204033	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204034	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204036	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204037	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204039	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204041	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204046	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204051	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204056	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204900	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	204906	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	205006	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	205008	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	206001	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	206009	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	206014	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	206018	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	206020	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	206025	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	207004	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	207006	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	207012	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	207013	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	207014	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	207015	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208003	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208004	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208005	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208007	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208009	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208011	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208012	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208015	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208019	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208022	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208024	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208026	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	208027	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	209002	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	209003	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210006	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210014	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210016	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210017	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210022	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210031	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210040	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210042	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210048	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210052	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210060	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210061	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210080	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210081	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210082	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210091	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210093	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210123	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	211008	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	211009	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	211010	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	211013	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	211014	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	212021	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	212028	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	212040	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	213200	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	215002	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	215004	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	215008	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	216004	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	216009	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	217002	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	218001	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	218005	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	218007	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	218008	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	219003	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	219006	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	219016	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	219017	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	219022	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	220002	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	220003	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	220004	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	221002	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	221010	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	222004	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	222007	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	222015	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	222016	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	222017	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	401008	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	401009	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	401012	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	401013	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	401015	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	401016	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	401017	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410024	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410026	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410033	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410038	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410044	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410047	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410048	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410057	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410061	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410062	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410077	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410088	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410089	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410091	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410096	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410097	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410107	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410111	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410126	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410141	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	410156	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	411003	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412028	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412029	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412050	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412063	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412066	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412068	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412071	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412080	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412081	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412083	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412089	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412090	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412092	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	412110	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	416003	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	416008	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	416010	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	416016	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	416020	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	416021	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	416023	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	416032	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	416035	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	416036	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	418005	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	418014	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	418015	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	418016	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	418017	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	418021	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	418025	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	418027	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	418032	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	418033	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	419005	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	419010	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	419016	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	419029	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	419032	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	419035	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	419044	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	419051	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	419054	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	419055	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	419081	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	420003	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	420004	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	420010	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	420014	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	420015	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	420017	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421018	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421026	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421042	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421048	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421050	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421055	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421056	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421065	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421066	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421068	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421076	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421084	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421101	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421103	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421104	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421106	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	210011	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	216002	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421125	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	421126	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	401220	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	222541	Snowy Hydro Limited
+NSW	212209	NSW Department of Industry Skills and Regional Development  DPI Water
+NSW	212260	NSW Department of Industry Skills and Regional Development  DPI Water
+NT	5115	Department of Land Resource Management
+NT	6005	Department of Land Resource Management
+NT	810225	Department of Land Resource Management
+NT	811004	Department of Land Resource Management
+NT	811006	Department of Land Resource Management
+NT	811007	Department of Land Resource Management
+NT	811016	Department of Land Resource Management
+NT	814001	Department of Land Resource Management
+NT	814008	Department of Land Resource Management
+NT	814011	Department of Land Resource Management
+NT	814040	Department of Land Resource Management
+NT	814063	Department of Land Resource Management
+NT	814067	Department of Land Resource Management
+NT	814152	Department of Land Resource Management
+NT	814161	Department of Land Resource Management
+NT	815010	Department of Land Resource Management
+NT	815018	Department of Land Resource Management
+NT	815098	Department of Land Resource Management
+NT	815180	Department of Land Resource Management
+NT	817002	Department of Land Resource Management
+NT	817006	Department of Land Resource Management
+NT	817084	Department of Land Resource Management
+NT	818035	Department of Land Resource Management
+NT	820045	Department of Land Resource Management
+NT	903001	Department of Land Resource Management
+NT	903176	Department of Land Resource Management
+NT	903250	Department of Land Resource Management
+NT	907132	Department of Land Resource Management
+NT	907142	Department of Land Resource Management
+NT	820112	Department of Land Resource Management
+NT	821017	Department of Land Resource Management
+NT	821024	Department of Land Resource Management
+NT	821010	Department of Land Resource Management
+NT	823002	Department of Land Resource Management
+NT	824001	Department of Land Resource Management
+NT	824002	Department of Land Resource Management
+NT	909249	Department of Land Resource Management
+NT	929006	Department of Land Resource Management
+QLD	3303	Department of Natural Resources and Mines
+QLD	11203	Department of Natural Resources and Mines
+QLD	102101	Department of Natural Resources and Mines
+QLD	104001	Department of Natural Resources and Mines
+QLD	105001	Department of Natural Resources and Mines
+QLD	105105	Department of Natural Resources and Mines
+QLD	107001	Department of Natural Resources and Mines
+QLD	107002	Department of Natural Resources and Mines
+QLD	107003	Department of Natural Resources and Mines
+QLD	108002	Department of Natural Resources and Mines
+QLD	108003	Department of Natural Resources and Mines
+QLD	109001	Department of Natural Resources and Mines
+QLD	111005	Department of Natural Resources and Mines
+QLD	111007	Department of Natural Resources and Mines
+QLD	111101	Department of Natural Resources and Mines
+QLD	112101	Department of Natural Resources and Mines
+QLD	112102	Department of Natural Resources and Mines
+QLD	113004	Department of Natural Resources and Mines
+QLD	114001	Department of Natural Resources and Mines
+QLD	116006	Department of Natural Resources and Mines
+QLD	116008	Department of Natural Resources and Mines
+QLD	116010	Department of Natural Resources and Mines
+QLD	116012	Department of Natural Resources and Mines
+QLD	116013	Department of Natural Resources and Mines
+QLD	116014	Department of Natural Resources and Mines
+QLD	116015	Department of Natural Resources and Mines
+QLD	116016	Department of Natural Resources and Mines
+QLD	116017	Department of Natural Resources and Mines
+QLD	117002	Department of Natural Resources and Mines
+QLD	117003	Department of Natural Resources and Mines
+QLD	118003	Department of Natural Resources and Mines
+QLD	118106	Department of Natural Resources and Mines
+QLD	119003	Department of Natural Resources and Mines
+QLD	119005	Department of Natural Resources and Mines
+QLD	119006	Department of Natural Resources and Mines
+QLD	120102	Department of Natural Resources and Mines
+QLD	120106	Department of Natural Resources and Mines
+QLD	120112	Department of Natural Resources and Mines
+QLD	120216	Department of Natural Resources and Mines
+QLD	120301	Department of Natural Resources and Mines
+QLD	120303	Department of Natural Resources and Mines
+QLD	120304	Department of Natural Resources and Mines
+QLD	121001	Department of Natural Resources and Mines
+QLD	121002	Department of Natural Resources and Mines
+QLD	121003	Department of Natural Resources and Mines
+QLD	124002	Department of Natural Resources and Mines
+QLD	124003	Department of Natural Resources and Mines
+QLD	125002	Department of Natural Resources and Mines
+QLD	125005	Department of Natural Resources and Mines
+QLD	129001	Department of Natural Resources and Mines
+QLD	130004	Department of Natural Resources and Mines
+QLD	130008	Department of Natural Resources and Mines
+QLD	130302	Department of Natural Resources and Mines
+QLD	130316	Department of Natural Resources and Mines
+QLD	130324	Department of Natural Resources and Mines
+QLD	130335	Department of Natural Resources and Mines
+QLD	130403	Department of Natural Resources and Mines
+QLD	130404	Department of Natural Resources and Mines
+QLD	130406	Department of Natural Resources and Mines
+QLD	130410	Department of Natural Resources and Mines
+QLD	130413	Department of Natural Resources and Mines
+QLD	132001	Department of Natural Resources and Mines
+QLD	133003	Department of Natural Resources and Mines
+QLD	133004	Department of Natural Resources and Mines
+QLD	134001	Department of Natural Resources and Mines
+QLD	135002	Department of Natural Resources and Mines
+QLD	135004	Department of Natural Resources and Mines
+QLD	136006	Department of Natural Resources and Mines
+QLD	136011	Department of Natural Resources and Mines
+QLD	136101	Department of Natural Resources and Mines
+QLD	136103	Department of Natural Resources and Mines
+QLD	136202	Department of Natural Resources and Mines
+QLD	136203	Department of Natural Resources and Mines
+QLD	136208	Department of Natural Resources and Mines
+QLD	136301	Department of Natural Resources and Mines
+QLD	136304	Department of Natural Resources and Mines
+QLD	136305	Department of Natural Resources and Mines
+QLD	136315	Department of Natural Resources and Mines
+QLD	137101	Department of Natural Resources and Mines
+QLD	137201	Department of Natural Resources and Mines
+QLD	138002	Department of Natural Resources and Mines
+QLD	138003	Department of Natural Resources and Mines
+QLD	138004	Department of Natural Resources and Mines
+QLD	138009	Department of Natural Resources and Mines
+QLD	138010	Department of Natural Resources and Mines
+QLD	138102	Department of Natural Resources and Mines
+QLD	138110	Department of Natural Resources and Mines
+QLD	138113	Department of Natural Resources and Mines
+QLD	138903	Department of Natural Resources and Mines
+QLD	141008	Department of Natural Resources and Mines
+QLD	143007	Department of Natural Resources and Mines
+QLD	143009	Department of Natural Resources and Mines
+QLD	143010	Department of Natural Resources and Mines
+QLD	143107	Department of Natural Resources and Mines
+QLD	143209	Department of Natural Resources and Mines
+QLD	143307	Department of Natural Resources and Mines
+QLD	145003	Department of Natural Resources and Mines
+QLD	145010	Department of Natural Resources and Mines
+QLD	145011	Department of Natural Resources and Mines
+QLD	145012	Department of Natural Resources and Mines
+QLD	145018	Department of Natural Resources and Mines
+QLD	145101	Department of Natural Resources and Mines
+QLD	145102	Department of Natural Resources and Mines
+QLD	145105	Department of Natural Resources and Mines
+QLD	145107	Department of Natural Resources and Mines
+QLD	146010	Department of Natural Resources and Mines
+QLD	146095	Department of Natural Resources and Mines
+QLD	422202	Department of Natural Resources and Mines
+QLD	422306	Department of Natural Resources and Mines
+QLD	422313	Department of Natural Resources and Mines
+QLD	422338	Department of Natural Resources and Mines
+QLD	422394	Department of Natural Resources and Mines
+QLD	422401	Department of Natural Resources and Mines
+QLD	424201	Department of Natural Resources and Mines
+QLD	912101	Department of Natural Resources and Mines
+QLD	912105	Department of Natural Resources and Mines
+QLD	913010	Department of Natural Resources and Mines
+QLD	915011	Department of Natural Resources and Mines
+QLD	915013	Department of Natural Resources and Mines
+QLD	915206	Department of Natural Resources and Mines
+QLD	917107	Department of Natural Resources and Mines
+QLD	919003	Department of Natural Resources and Mines
+QLD	919005	Department of Natural Resources and Mines
+QLD	919013	Department of Natural Resources and Mines
+QLD	919201	Department of Natural Resources and Mines
+QLD	919204	Department of Natural Resources and Mines
+QLD	919309	Department of Natural Resources and Mines
+QLD	920003	Department of Natural Resources and Mines
+QLD	921002	Department of Natural Resources and Mines
+QLD	922101	Department of Natural Resources and Mines
+QLD	923001	Department of Natural Resources and Mines
+QLD	924101	Department of Natural Resources and Mines
+QLD	925001	Department of Natural Resources and Mines
+QLD	925002	Department of Natural Resources and Mines
+QLD	926001	Department of Natural Resources and Mines
+QLD	926002	Department of Natural Resources and Mines
+QLD	927001	Department of Natural Resources and Mines
+QLD	140002	Department of Natural Resources and Mines
+QLD	110011	Department of Natural Resources and Mines
+SA	4502	Department of Environment Water and Natural Resources
+SA	4508	Department of Environment Water and Natural Resources
+SA	426503	Department of Environment Water and Natural Resources
+SA	426530	Department of Environment Water and Natural Resources
+SA	426533	Department of Environment Water and Natural Resources
+SA	501500	Department of Environment Water and Natural Resources
+SA	501503	Department of Environment Water and Natural Resources
+SA	502502	Department of Environment Water and Natural Resources
+SA	505512	Department of Environment Water and Natural Resources
+SA	505532	Department of Environment Water and Natural Resources
+SA	506500	Department of Environment Water and Natural Resources
+SA	507500	Department of Environment Water and Natural Resources
+SA	507503	Department of Environment Water and Natural Resources
+SA	509501	Department of Environment Water and Natural Resources
+SA	509502	Department of Environment Water and Natural Resources
+SA	509503	Department of Environment Water and Natural Resources
+SA	510502	Department of Environment Water and Natural Resources
+SA	510507	Department of Environment Water and Natural Resources
+SA	510510	Department of Environment Water and Natural Resources
+SA	510511	Department of Environment Water and Natural Resources
+SA	512504	Department of Environment Water and Natural Resources
+SA	513501	Department of Environment Water and Natural Resources
+SA	239523	South Eastern Water Conservation and Drainage Board
+SA	239531	South Eastern Water Conservation and Drainage Board
+SA	239535	South Eastern Water Conservation and Drainage Board
+TAS	318025	Department of Primary Industries Parks Water and Environment TAS
+TAS	318076	Department of Primary Industries Parks Water and Environment TAS
+TAS	306119	Department of Primary Industries Parks Water and Environment TAS
+TAS	318164	Department of Primary Industries Parks Water and Environment TAS
+TAS	318181	Department of Primary Industries Parks Water and Environment TAS
+TAS	318191	Department of Primary Industries Parks Water and Environment TAS
+TAS	310350	Department of Primary Industries Parks Water and Environment TAS
+TAS	307473	Department of Primary Industries Parks Water and Environment TAS
+TAS	304499	Department of Primary Industries Parks Water and Environment TAS
+TAS	318852	Department of Primary Industries Parks Water and Environment TAS
+TAS	311307	Department of Primary Industries Parks Water and Environment TAS
+TAS	302200	Department of Primary Industries Parks Water and Environment TAS
+TAS	302202	Department of Primary Industries Parks Water and Environment TAS
+TAS	302203	Department of Primary Industries Parks Water and Environment TAS
+TAS	302204	Department of Primary Industries Parks Water and Environment TAS
+TAS	302205	Department of Primary Industries Parks Water and Environment TAS
+TAS	302206	Department of Primary Industries Parks Water and Environment TAS
+TAS	302207	Department of Primary Industries Parks Water and Environment TAS
+TAS	302208	Department of Primary Industries Parks Water and Environment TAS
+TAS	302209	Department of Primary Industries Parks Water and Environment TAS
+TAS	302210	Department of Primary Industries Parks Water and Environment TAS
+TAS	302214	Department of Primary Industries Parks Water and Environment TAS
+TAS	303203	Department of Primary Industries Parks Water and Environment TAS
+TAS	307200	Department of Primary Industries Parks Water and Environment TAS
+TAS	310202	Department of Primary Industries Parks Water and Environment TAS
+TAS	314207	Department of Primary Industries Parks Water and Environment TAS
+TAS	314210	Department of Primary Industries Parks Water and Environment TAS
+TAS	314212	Department of Primary Industries Parks Water and Environment TAS
+TAS	314213	Department of Primary Industries Parks Water and Environment TAS
+TAS	314214	Department of Primary Industries Parks Water and Environment TAS
+TAS	314215	Department of Primary Industries Parks Water and Environment TAS
+TAS	314221	Department of Primary Industries Parks Water and Environment TAS
+TAS	314223	Department of Primary Industries Parks Water and Environment TAS
+TAS	317200	Department of Primary Industries Parks Water and Environment TAS
+TAS	317201	Department of Primary Industries Parks Water and Environment TAS
+TAS	318210	Department of Primary Industries Parks Water and Environment TAS
+TAS	318226	Department of Primary Industries Parks Water and Environment TAS
+TAS	318311	Department of Primary Industries Parks Water and Environment TAS
+TAS	319202	Department of Primary Industries Parks Water and Environment TAS
+TAS	319204	Department of Primary Industries Parks Water and Environment TAS
+TAS	304040	Hydro-electric Corporation (Hydro Tasmania)
+TAS	312061	Hydro-electric Corporation (Hydro Tasmania)
+TAS	308145	Hydro-electric Corporation (Hydro Tasmania)
+TAS	318150	Hydro-electric Corporation (Hydro Tasmania)
+TAS	312159	Hydro-electric Corporation (Hydro Tasmania)
+TAS	315450	Hydro-electric Corporation (Hydro Tasmania)
+TAS	304497	Hydro-electric Corporation (Hydro Tasmania)
+TAS	316624	Hydro-electric Corporation (Hydro Tasmania)
+TAS	308799	Hydro-electric Corporation (Hydro Tasmania)
+TAS	304369	Hydro-electric Corporation (Hydro Tasmania)
+TAS	309078	Department of Primary Industries Parks Water and Environment TAS
+TAS	310472	Department of Primary Industries Parks Water and Environment TAS
+TAS	309516	Department of Primary Industries Parks Water and Environment TAS
+TAS	310807	Department of Primary Industries Parks Water and Environment TAS
+VIC	222202	Department of Environment Land Water and Planning
+VIC	224201	Department of Environment Land Water and Planning
+VIC	224207	Department of Environment Land Water and Planning
+VIC	225218	Department of Environment Land Water and Planning
+VIC	226209	Department of Environment Land Water and Planning
+VIC	234200	Department of Environment Land Water and Planning
+VIC	235202	Department of Environment Land Water and Planning
+VIC	235203	Department of Environment Land Water and Planning
+VIC	238204	Department of Environment Land Water and Planning
+VIC	402213	Department of Environment Land Water and Planning
+VIC	405218	Department of Environment Land Water and Planning
+VIC	221207	Department of Environment Land Water and Planning
+VIC	221208	Department of Environment Land Water and Planning
+VIC	221209	Department of Environment Land Water and Planning
+VIC	221210	Department of Environment Land Water and Planning
+VIC	221211	Department of Environment Land Water and Planning
+VIC	221212	Department of Environment Land Water and Planning
+VIC	222213	Department of Environment Land Water and Planning
+VIC	222216	Department of Environment Land Water and Planning
+VIC	222217	Department of Environment Land Water and Planning
+VIC	223202	Department of Environment Land Water and Planning
+VIC	224206	Department of Environment Land Water and Planning
+VIC	224209	Department of Environment Land Water and Planning
+VIC	224214	Department of Environment Land Water and Planning
+VIC	224215	Department of Environment Land Water and Planning
+VIC	226007	Department of Environment Land Water and Planning
+VIC	226217	Department of Environment Land Water and Planning
+VIC	226220	Department of Environment Land Water and Planning
+VIC	226407	Department of Environment Land Water and Planning
+VIC	226415	Department of Environment Land Water and Planning
+VIC	227202	Department of Environment Land Water and Planning
+VIC	227211	Department of Environment Land Water and Planning
+VIC	227226	Department of Environment Land Water and Planning
+VIC	227227	Department of Environment Land Water and Planning
+VIC	227236	Department of Environment Land Water and Planning
+VIC	227237	Department of Environment Land Water and Planning
+VIC	227240	Department of Environment Land Water and Planning
+VIC	227243	Department of Environment Land Water and Planning
+VIC	230208	Department of Environment Land Water and Planning
+VIC	230219	Department of Environment Land Water and Planning
+VIC	231230	Department of Environment Land Water and Planning
+VIC	233223	Department of Environment Land Water and Planning
+VIC	234201	Department of Environment Land Water and Planning
+VIC	234203	Department of Environment Land Water and Planning
+VIC	235208	Department of Environment Land Water and Planning
+VIC	235223	Department of Environment Land Water and Planning
+VIC	235228	Department of Environment Land Water and Planning
+VIC	235229	Department of Environment Land Water and Planning
+VIC	235237	Department of Environment Land Water and Planning
+VIC	238220	Department of Environment Land Water and Planning
+VIC	238221	Department of Environment Land Water and Planning
+VIC	238223	Department of Environment Land Water and Planning
+VIC	238229	Department of Environment Land Water and Planning
+VIC	238230	Department of Environment Land Water and Planning
+VIC	238231	Department of Environment Land Water and Planning
+VIC	238233	Department of Environment Land Water and Planning
+VIC	238238	Department of Environment Land Water and Planning
+VIC	401203	Department of Environment Land Water and Planning
+VIC	401208	Department of Environment Land Water and Planning
+VIC	401209	Department of Environment Land Water and Planning
+VIC	401210	Department of Environment Land Water and Planning
+VIC	401212	Department of Environment Land Water and Planning
+VIC	401216	Department of Environment Land Water and Planning
+VIC	401217	Department of Environment Land Water and Planning
+VIC	401226	Department of Environment Land Water and Planning
+VIC	401230	Department of Environment Land Water and Planning
+VIC	402206	Department of Environment Land Water and Planning
+VIC	403210	Department of Environment Land Water and Planning
+VIC	403213	Department of Environment Land Water and Planning
+VIC	403214	Department of Environment Land Water and Planning
+VIC	403217	Department of Environment Land Water and Planning
+VIC	403222	Department of Environment Land Water and Planning
+VIC	403224	Department of Environment Land Water and Planning
+VIC	403226	Department of Environment Land Water and Planning
+VIC	403232	Department of Environment Land Water and Planning
+VIC	403236	Department of Environment Land Water and Planning
+VIC	403244	Department of Environment Land Water and Planning
+VIC	404207	Department of Environment Land Water and Planning
+VIC	404208	Department of Environment Land Water and Planning
+VIC	405205	Department of Environment Land Water and Planning
+VIC	405209	Department of Environment Land Water and Planning
+VIC	405212	Department of Environment Land Water and Planning
+VIC	405214	Department of Environment Land Water and Planning
+VIC	405215	Department of Environment Land Water and Planning
+VIC	405217	Department of Environment Land Water and Planning
+VIC	405219	Department of Environment Land Water and Planning
+VIC	405227	Department of Environment Land Water and Planning
+VIC	405228	Department of Environment Land Water and Planning
+VIC	405229	Department of Environment Land Water and Planning
+VIC	405230	Department of Environment Land Water and Planning
+VIC	405231	Department of Environment Land Water and Planning
+VIC	405234	Department of Environment Land Water and Planning
+VIC	405238	Department of Environment Land Water and Planning
+VIC	405240	Department of Environment Land Water and Planning
+VIC	405241	Department of Environment Land Water and Planning
+VIC	405245	Department of Environment Land Water and Planning
+VIC	405247	Department of Environment Land Water and Planning
+VIC	405248	Department of Environment Land Water and Planning
+VIC	405251	Department of Environment Land Water and Planning
+VIC	405257	Department of Environment Land Water and Planning
+VIC	405261	Department of Environment Land Water and Planning
+VIC	405262	Department of Environment Land Water and Planning
+VIC	405263	Department of Environment Land Water and Planning
+VIC	405264	Department of Environment Land Water and Planning
+VIC	405269	Department of Environment Land Water and Planning
+VIC	405274	Department of Environment Land Water and Planning
+VIC	405291	Department of Environment Land Water and Planning
+VIC	405293	Department of Environment Land Water and Planning
+VIC	406213	Department of Environment Land Water and Planning
+VIC	406214	Department of Environment Land Water and Planning
+VIC	406224	Department of Environment Land Water and Planning
+VIC	406226	Department of Environment Land Water and Planning
+VIC	406235	Department of Environment Land Water and Planning
+VIC	406250	Department of Environment Land Water and Planning
+VIC	406262	Department of Environment Land Water and Planning
+VIC	407211	Department of Environment Land Water and Planning
+VIC	407213	Department of Environment Land Water and Planning
+VIC	407214	Department of Environment Land Water and Planning
+VIC	407215	Department of Environment Land Water and Planning
+VIC	407220	Department of Environment Land Water and Planning
+VIC	407230	Department of Environment Land Water and Planning
+VIC	408200	Department of Environment Land Water and Planning
+VIC	408202	Department of Environment Land Water and Planning
+VIC	408204	Department of Environment Land Water and Planning
+VIC	408206	Department of Environment Land Water and Planning
+VIC	415201	Department of Environment Land Water and Planning
+VIC	415207	Department of Environment Land Water and Planning
+VIC	415220	Department of Environment Land Water and Planning
+VIC	415226	Department of Environment Land Water and Planning
+VIC	415237	Department of Environment Land Water and Planning
+VIC	415238	Department of Environment Land Water and Planning
+VIC	415245	Department of Environment Land Water and Planning
+VIC	221201	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	222206	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	224213	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	225213	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	225219	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	226204	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	226222	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	226226	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	226402	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	226410	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	227200	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	230205	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	231211	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	231213	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	231225	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	235210	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	235211	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	235224	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	235234	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	236205	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	236212	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	237202	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	237205	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	237206	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	237207	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	238235	Gippsland and Southern Rural Water Corporation (Southern Rural Water)
+VIC	227219	Melbourne Water Corporation (Melbourne Water)
+VIC	227231	Melbourne Water Corporation (Melbourne Water)
+VIC	228212	Melbourne Water Corporation (Melbourne Water)
+VIC	230211	Melbourne Water Corporation (Melbourne Water)
+VIC	225110	Melbourne Water Corporation (Melbourne Water)
+VIC	228206	Melbourne Water Corporation (Melbourne Water)
+VIC	228209	Melbourne Water Corporation (Melbourne Water)
+VIC	229661	Melbourne Water Corporation (Melbourne Water)
+WA	601001	Department of Water
+WA	601004	Department of Water
+WA	601005	Department of Water
+WA	602002	Department of Water
+WA	602003	Department of Water
+WA	602004	Department of Water
+WA	602014	Department of Water
+WA	602015	Department of Water
+WA	602031	Department of Water
+WA	603001	Department of Water
+WA	603002	Department of Water
+WA	603003	Department of Water
+WA	603004	Department of Water
+WA	603005	Department of Water
+WA	603007	Department of Water
+WA	603013	Department of Water
+WA	603136	Department of Water
+WA	603190	Department of Water
+WA	604001	Department of Water
+WA	604053	Department of Water
+WA	605012	Department of Water
+WA	606001	Department of Water
+WA	606185	Department of Water
+WA	606195	Department of Water
+WA	606218	Department of Water
+WA	607002	Department of Water
+WA	607003	Department of Water
+WA	607004	Department of Water
+WA	607007	Department of Water
+WA	607013	Department of Water
+WA	607144	Department of Water
+WA	607155	Department of Water
+WA	607220	Department of Water
+WA	608001	Department of Water
+WA	608151	Department of Water
+WA	608171	Department of Water
+WA	609002	Department of Water
+WA	609003	Department of Water
+WA	609005	Department of Water
+WA	609010	Department of Water
+WA	609016	Department of Water
+WA	609017	Department of Water
+WA	609018	Department of Water
+WA	609022	Department of Water
+WA	610001	Department of Water
+WA	610005	Department of Water
+WA	610009	Department of Water
+WA	610010	Department of Water
+WA	610015	Department of Water
+WA	610219	Department of Water
+WA	611004	Department of Water
+WA	611006	Department of Water
+WA	611111	Department of Water
+WA	612001	Department of Water
+WA	612014	Department of Water
+WA	612023	Department of Water
+WA	612025	Department of Water
+WA	612034	Department of Water
+WA	612230	Department of Water
+WA	613002	Department of Water
+WA	614006	Department of Water
+WA	614016	Department of Water
+WA	614028	Department of Water
+WA	614031	Department of Water
+WA	614035	Department of Water
+WA	614036	Department of Water
+WA	614037	Department of Water
+WA	614044	Department of Water
+WA	614047	Department of Water
+WA	614065	Department of Water
+WA	614073	Department of Water
+WA	614123	Department of Water
+WA	614196	Department of Water
+WA	614224	Department of Water
+WA	615011	Department of Water
+WA	615016	Department of Water
+WA	615018	Department of Water
+WA	615027	Department of Water
+WA	615222	Department of Water
+WA	616001	Department of Water
+WA	616002	Department of Water
+WA	616005	Department of Water
+WA	616006	Department of Water
+WA	616013	Department of Water
+WA	616014	Department of Water
+WA	616019	Department of Water
+WA	616039	Department of Water
+WA	616041	Department of Water
+WA	616065	Department of Water
+WA	616099	Department of Water
+WA	616178	Department of Water
+WA	616216	Department of Water
+WA	617002	Department of Water
+WA	617003	Department of Water
+WA	617165	Department of Water
+WA	701002	Department of Water
+WA	701003	Department of Water
+WA	701005	Department of Water
+WA	701007	Department of Water
+WA	701008	Department of Water
+WA	701009	Department of Water
+WA	701010	Department of Water
+WA	701011	Department of Water
+WA	701012	Department of Water
+WA	703001	Department of Water
+WA	703002	Department of Water
+WA	704139	Department of Water
+WA	704193	Department of Water
+WA	705001	Department of Water
+WA	705002	Department of Water
+WA	706207	Department of Water
+WA	706209	Department of Water
+WA	707001	Department of Water
+WA	707002	Department of Water
+WA	707004	Department of Water
+WA	707005	Department of Water
+WA	708001	Department of Water
+WA	708011	Department of Water
+WA	709003	Department of Water
+WA	709004	Department of Water
+WA	709005	Department of Water
+WA	709010	Department of Water
+WA	710003	Department of Water
+WA	710204	Department of Water
+WA	710229	Department of Water
+WA	802002	Department of Water
+WA	802055	Department of Water
+WA	802137	Department of Water
+WA	802198	Department of Water
+WA	802202	Department of Water
+WA	802213	Department of Water
+WA	803002	Department of Water
+WA	803003	Department of Water
+WA	804001	Department of Water
+WA	804002	Department of Water
+WA	806001	Department of Water
+WA	806003	Department of Water
+WA	806004	Department of Water
+WA	806005	Department of Water
+WA	806006	Department of Water
+WA	806007	Department of Water
+WA	808001	Department of Water
+WA	809310	Department of Water
+WA	809315	Department of Water
+WA	809316	Department of Water
+WA	809317	Department of Water
+WA	809321	Department of Water
+WA	809322	Department of Water
+WA	616024	Department of Water
