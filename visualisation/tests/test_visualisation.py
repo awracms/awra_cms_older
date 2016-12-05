@@ -6,6 +6,7 @@ def test_imports():
     # assert False
 
 
+@nottest
 def test_drive():
     import awrams.visualisation.vis as vis
     import awrams.visualisation.results as res
