@@ -61,6 +61,9 @@ By accessing or using the AWRAMS software, code, data or documentation, you agre
 
 **Registered Users** are required to sign and return to the Bureau the AWRAMS licence. 
 
+Note that while source code is available and contributions from the public are welcome, the AWRA CMS is **not** [Open Source software](https://opensource.org/osd-annotated) or [Free Software](https://www.gnu.org/philosophy/free-sw.en.html) as its license is incompatible with these definitions.  You can check those links for more information.
+
+
 User Registration
 -----------------
 There are two types of **Users** with the AWRA CMS: Users and **Registered Users**. 
@@ -87,15 +90,14 @@ One of the main motivations of the community model is to gain the benefits of th
  - **increasing functionality** and
  - **adding new datasets** to the system. 
 
-To make changes to the AWRA-L community model source code the User needs to create their own 'fork' (altered copy of the community model code) of the code on the GitHub repository. 
+The suggested process for users who wish to contribute to the CMS is as follows:
 
-After ensuring the robustness of the changes locally, developers are able to contribute to the community modelling system by proposing their alterations to the Bureau according to the following steps:
-
- 1. The User proposes changes to the Bureau
- 2. The Bureau assesses scientifically the proposed change. If successful the Bureau grants access for submission of fork/code
- 3. User submits their fork (new code) and any documentation and  testing that has been conducted
- 4. The Bureau assesses that code against various performance criteria including performance against benchmark data, system performance, code complexity and maintainability. If successful according to that testing the Bureau releases the new version of the CMS.
-
-
-
-
+1. The user [creates a fork](https://help.github.com/articles/fork-a-repo/)
+   of the modelling system on their own GitHub account, and clones this
+   repository to work from.
+2. The user makes their desired changes, and pushes the changes to their 
+   GitHub repository.  These changes should include documentation.
+3. The user [makes a pull request](https://help.github.com/articles/creating-a-pull-request/)
+   against the upstream (Bureau) repository.  This should include a rationale,
+   document the testing that has been done, and describe any relevant tradeoffs.
+4. The Bureau assesses that code scientifically and against various performance criteria including performance against benchmark data, system performance, code complexity and maintainability. If successful according to that testing the Bureau releases the new version of the CMS.
