@@ -32,6 +32,75 @@ For Debian flavours of Linux:
 
 There is always a number of ways to install these pre-requisites on any given operating system and the situation will be different on different OS versions. The following sections give guidance for setting up the pre-requisites on some different operating systems.
 
+#### Linux: using [Anaconda](https://www.continuum.io/downloads) or [Miniconda](https://conda.io/miniconda)
+tested on 20/02/2017, with conda=4.{1,2} on 64-bit Linux.
+
+Use conda to create an environment from the following file, then follow the instructions to install the AWRA CMS from source (at the bottom of this page).
+
+```
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+cffi=1.9.1=py34_0
+curl=7.38.0=0
+decorator=4.0.10=py34_1
+fontconfig=2.11.1=6
+freetype=2.5.5=1
+geos=3.5.0=0
+h5py=2.5.0=np19py34_2
+hdf4=4.2.11=0
+hdf5=1.8.14=0
+ipython=5.1.0=py34_0
+ipython_genutils=0.1.0=py34_0
+jpeg=8d=2
+kealib=1.4.5=0
+krb5=1.13.2=0
+libffi=3.2.1=0
+libgdal=2.0.0=1
+libgfortran=1.0=0
+libnetcdf=4.3.2=1
+libpng=1.6.17=0
+libsodium=1.0.10=0
+libxml2=2.9.2=0
+matplotlib=1.4.3=np19py34_2
+mkl=11.3.3=0
+netcdf4=1.1.6=np19py34_0
+numpy=1.9.3=py34_3
+openssl=1.0.1k=1
+pandas=0.17.1=np19py34_0
+path.py=8.2.1=py34_0
+pexpect=4.0.1=py34_0
+pickleshare=0.7.4=py34_0
+pip=9.0.1=py34_1
+proj4=4.9.2=0
+prompt_toolkit=1.0.9=py34_0
+ptyprocess=0.5.1=py34_0
+pycparser=2.17=py34_0
+pygments=2.1.3=py34_0
+pyparsing=2.0.3=py34_0
+pyqt=4.11.4=py34_4
+python=3.4.1=1
+python-dateutil=2.6.0=py34_0
+pytz=2016.10=py34_0
+pyzmq=16.0.2=py34_0
+qt=4.8.7=2
+readline=6.2=2
+setuptools=27.2.0=py34_0
+simplegeneric=0.8.1=py34_1
+sip=4.18=py34_0
+six=1.10.0=py34_0
+sqlite=3.13.0=0
+system=5.8=2
+tk=8.5.18=0
+traitlets=4.3.1=py34_0
+wcwidth=0.1.7=py34_0
+wheel=0.29.0=py34_0
+xerces-c=3.1.4=0
+xz=5.2.2=0
+zeromq=4.1.5=0
+zlib=1.2.8=3
+```
+
 #### Linux: Fedora 24
 tested on 19/09/2016
 
@@ -432,3 +501,6 @@ python setup.py nosetests
 cd ..
 
 ```
+
+If you are developing changes to the model code, you should replace each `python setup.py install` command with [`pip install -e .`](https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs).
+This will automatically propogate your changes to the installed package, instead of requiring you to reinstall the system each time you make a change.
