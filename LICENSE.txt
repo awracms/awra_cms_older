@@ -1,5 +1,4 @@
 AWRAMS LICENCE
-(Variation of BSD 3 licence)
 
 Copyright 2016, Commonwealth of Australia as represented by the Bureau of Meteorology. All rights reserved.
 
